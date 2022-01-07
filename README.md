@@ -75,7 +75,7 @@ export default defineComponent({
 ### `active`
 
 - [x] Can use a reactive variable
-- [x] Can set `true`/`false` dinamically
+- [x] Can set `true`/`false` dynamically
 
 Usage:
 
